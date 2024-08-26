@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    background-color: #777777;
+    color: #cfcfcf;
+    border-radius: 15px;
+}
+
+thead {
+    color: #ab2330;
+}
+
+table {
+    width: 50%;
+    text-align: center;
+    background-color: #1e1e1e;
+    color: #cfcfcf;
+    border-radius: 15px;
+    margin: auto;
+    padding: 5px;
+    font-weight: bold;    
+}
+
+td {
+    padding: 10px;
+}
+
+body {
+    background-color: #333333;
+    cursor: pointer;
+
+}
+
+.feriado {
+    background-color: #ab23306e;
+    width: 50%;
+    justify-content: space-around;
+    border-radius: 5px;
+ 
+}
+
+.alinhamento {
+    display: flex;
+    justify-content: center;
+}
+
+abbr[title] {
+    border-bottom: none !important;
+    cursor: inherit !important;
+    text-decoration: none !important;
+  }
+
+#sunday {
+    color: #ab2330;
+}
